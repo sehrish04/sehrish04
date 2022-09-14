@@ -18,7 +18,7 @@ Doing research in Machine Learning
 | Power Electronics | Wave Propagation |
 | Cryptography | Computer Networks |
 | Advance Computer Architecture | Advance Computing Systems |
-| Microelectronics-I | Microelectronics-II |
+| Microelectronics-I | Oversampling and Data Converter |
 
 ### MSC Electronics (2019 - 2021)
 Quaid-e-Azam University, Islamabad.
