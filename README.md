@@ -27,12 +27,12 @@ Islamabad Model Postgraduate College for Girls, F-7/2, Islamabad.
 * Major subjects : Double Math, Physics.
 * Affiliated with Quaid-e-Azam University, Islamabad.
 
-### HSSC (2014 — 2016)
+### HSSC (2014 - 2016)
 Islamabad Model Postgraduate College for Girls, F-7/2, Islamabad.
 * Subjects : Pre-Engineering
 * Affiliated with : FBISE
 
-### SSC (2012 — 2014)
+### SSC (2012 - 2014)
 Islamabad Model School for Girls (VI-X), G-6/1-3, Islamabad.
 * Subjects : Science
 * Affiliated with : FBISE
