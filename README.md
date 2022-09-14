@@ -12,6 +12,11 @@ To work in a reputable organization that acknowledges performance, gives rewards
 
 ## Education
 
+### M.phil In Electronics (2022 - 2024)
+Quaid-e-Azam University, Islamabad.
+
+Doing research in Machine Learning
+
 ### MSC Electronics (2019 - 2021)
 Quaid-e-Azam University, Islamabad.
 
