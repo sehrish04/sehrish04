@@ -17,7 +17,7 @@ Doing research in Machine Learning
 | ------------ | ------------ |
 | Power Electronics | Wave Propagation |
 | Cryptography | Computer Networks |
-| Advance Computer Architecture | Advance Computing System |
+| Advance Computer Architecture | Advance Computing Systems |
 | Microelectronics-I | Microelectronics-II |
 
 ### MSC Electronics (2019 - 2021)
@@ -29,10 +29,10 @@ Quaid-e-Azam University, Islamabad.
 | Digital Logic Design | Quantum And Physical Electronics |
 | Laboratory-I | Applied Mathematics-II |
 | Electronic-I | Control Systems |
-| Computer Architecture | aboratory-II |
+| Computer Architecture | Laboratory-II |
 | Communication Theory | Electronics-II |
 | Electromagnetic Theory | Computer programming |
-| Laboratory-III | Communication System |
+| Laboratory-III | Digital Communication System |
 | Electronics-III | Software Engineering |
 | Digital Design Using Verilog-HDL | Wireless Communications |
 
