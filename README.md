@@ -13,10 +13,28 @@ Quaid-e-Azam University, Islamabad.
 
 Doing research in Machine Learning
 
+| Subject Name | Subject Name |
+| ------------ | ------------ |
+| Power Electronics | Wave Propagation |
+| Cryptography | Computer Networks |
+| Advance Computer Architecture | Advance Computing System |
+| Microelectronics-I | Microelectronics-II |
+
 ### MSC Electronics (2019 - 2021)
 Quaid-e-Azam University, Islamabad.
 
-Major Subjects : Computer Architecture, Digital Logic Design, Communication System.
+| Subject Name | Subject Name |
+| ------------ | ------------ |
+| Applied Mathematics-I | Network Analysis |
+| Digital Logic Design | Quantum And Physical Electronics |
+| Laboratory-I | Applied Mathematics-II |
+| Electronic-I | Control Systems |
+| Computer Architecture | aboratory-II |
+| Communication Theory | Electronics-II |
+| Electromagnetic Theory | Computer programming |
+| Laboratory-III | Communication System |
+| Electronics-III | Software Engineering |
+| Digital Design Using Verilog-HDL | Wireless Communications |
 
 ### BSC (2016 - 2018)
 Islamabad Model Postgraduate College for Girls, F-7/2, Islamabad.
