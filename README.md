@@ -8,7 +8,7 @@ To work in a reputable organization that acknowledges performance, gives rewards
 
 ## Education
 
-### M.phil In Electronics (2022 - 2024)
+### M.phil In Electronics (2021 - 2023)
 Quaid-e-Azam University, Islamabad.
 
 Doing research in Machine Learning
@@ -52,7 +52,6 @@ Islamabad Model School for Girls (VI-X), G-6/1-3, Islamabad.
 * Affiliated with : FBISE
 
 ## Skills
-* Good communication skills.
 * Expertise in Microsoft office applications specially MS Word.
 
 ## Programming Languages 
